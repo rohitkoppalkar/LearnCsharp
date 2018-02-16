@@ -1,13 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace LearnCsharp6.Chapter1
+class Hello
 {
-    class Hello
-    {
         static int Main()
         {
             Console.WriteLine("Hello World!");
@@ -17,5 +11,4 @@ namespace LearnCsharp6.Chapter1
             Console.ReadKey();
             return 0;
         }
-    }
 }
